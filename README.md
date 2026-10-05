@@ -7,12 +7,12 @@ For now, this is purely hypothetical and just a way for me to practice...
 Let's see what I can do!
 
 ## Table of Contents
-1. [Project Title]  
-2. [Description]
-3. [Tools Used]
-4. [Files Used]
-5.	[How to Run Program]
-6.	[Additional Information]
+1. [Project Title](#project-title)  
+2. [Description](#description)
+3. [Tools Used](#tools-used)
+4. [Files Used](#files-used)
+5.	[How to Run Program](#how-to-run-program)
+6.	[Additional Information](#additional-information)
 
 # Project Title
 The name of the project is > "My first repository, Hello-World." 
