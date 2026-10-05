@@ -8,12 +8,11 @@ Let's see what I can do!
 
 ## Table of Contents
 1. #project-title 
-   - [Purpose of-the-project
 2. #description
-   - #tools-used
-   - #files-used
-3.	#how-to-run-program
-4.	#additional-information
+3. #tools-used
+4. #files-used
+5.	#how-to-run-program
+6.	#additional-information
 
 # Project Title
 The name of the project is > "My first repository, Hello-World." 
