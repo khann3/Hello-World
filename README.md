@@ -26,7 +26,7 @@ For example, if I used SQL to build a database or used Python to code then I wou
 ### Files Used
 Also, if I had any external data sources like an Excel spreadsheet, I'd also mention where I got the files, what they are, and how I utilized them in my project.
 
-## How to run the program
+## How to run program
 In this section, I would explain the steps to take for how to run the program. This is a bit difficult to show since this is not a real project, but it would look something like this:
 1. Hello_World/
    | -- README.md # download or read
