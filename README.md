@@ -8,20 +8,24 @@ Let's see what I can do!
 
 ## Table of Contents
 1. #project-title 
-   * [Purpose of the project] (#purposeiption
-2. #Description
+   * [Purpose of the project] (#purpose-iption
+2. #description
    * #tools-used
    * #files-used
 3.	#how-to-run-program
 4.	#additional-information
 
-## Project Title
+# Project Title
 The name of the project is > "My first repository, Hello-World." 
 
 I'm completing this project because as I mentioned above, I am the ultimate beginner with GitHub. This is a brand-new platform that I was introduced to this semester. I had not previously heard of it but I'm hoping that by doing assignments like this one, I can learn the ropes and be prepared for the day that I will need it. I'm always looking to constantly learn so I'm glad I'm able to become for familiar with widely used websites like GitHub before I am thrown into the real world. 
 
-## Description
-This project is hypothetical and just a trial run to familiarize myself with GitHub and building repositories/learning Markdown Syntax. Normally, if I were writing about an actual project, I would be giving a summary of what the project entails, the tools I'm either going to use or did use and also the files I used to get there. For example, if I used SQL to build a database or used Python to code then I would include that in this section. Also, if I had any external data sources like an Excel spreadsheet, I'd also mention where I got the files, what they are, and how I utilized them in my project.
+# Description
+This project is hypothetical and just a trial run to familiarize myself with GitHub and building repositories/learning Markdown Syntax. Normally, if I were writing about an actual project, I would be giving a summary of what the project entails, the tools I'm either going to use or did use and also the files I used to get there. 
+### Tools Used
+For example, if I used SQL to build a database or used Python to code then I would include that in this section.
+### Files Used
+Also, if I had any external data sources like an Excel spreadsheet, I'd also mention where I got the files, what they are, and how I utilized them in my project.
 
 ## How to run the program
 In this section, I would explain the steps to take for how to run the program. This is a bit difficult to show since this is not a real project, but it would look something like this:
