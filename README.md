@@ -7,13 +7,13 @@ For now, this is purely hypothetical and just a way for me to practice...
 Let's see what I can do!
 
 ## Table of Contents
-1. #Project Title
-     - Purpose of the project
+1. #Project-Title 
+   * [Purpose of the project
 2. #Description
-   -Tools Used
-   -Files Used
-3.	#How to Run Program
-4.	#Additional Information
+   * #Tools Used
+   * #Files Used
+3.	#How-to-Run-Program
+4.	#Additional-Information
 
 ## Project Title
 The name of the project is > "My first repository, Hello-World." 
